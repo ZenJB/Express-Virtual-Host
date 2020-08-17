@@ -1,0 +1,17 @@
+{
+  "name": "vhostexample",
+  "version": "1.0.0",
+  "description": "Virtual Host Example",
+  "main": "program.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ivan Teixeira (Zlynt)",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^5.4.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "helmet": "^3.21.2"
+  }
+}
